@@ -75,9 +75,9 @@ Final insights and analytics are visualized using Power BI dashboards, highlight
 ## Workflow Diagram and Dashboard Previews
 
 ![Pipeline Workflow](End%20To%20End%20Workflow.png)
-![Holdings View](./4.BI_Dashboards/ASX_Holdings.png)
-![Sector Exposure](./4.BI_Dashboards/ASX_Sectors.png)
-![Top Performers](./4.BI_Dashboards/ASX_Top_Performers.png)
+![Holdings View](./BI_Dashboards/ASX_Holdings.png)
+![Sector Exposure](./BI_Dashboards/ASX_Sectors.png)
+![Top Performers](./BI_Dashboards/ASX_Top_Performers.png)
 
 ---
 
